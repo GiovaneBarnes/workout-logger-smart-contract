@@ -12,5 +12,6 @@ This Solidity smart contract allows users to log their workouts directly on-chai
 
 ## 🛠 How to Run Locally
 `npm install`
+
 `npx hardhat test`
 
